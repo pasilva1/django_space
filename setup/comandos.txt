@@ -1,0 +1,7 @@
+# pip freeze > requirements.txt
+django-admin help
+startproject 
+
+python manage.py runserver #abre o projeto de django
+#retirar a secret_key django-insecure-$5(b3d9zn^%(&a5#t_o_wglui8-m%4uvlgw5$a@lwn5c4k$1r8 
+#pip install python-dotenv
